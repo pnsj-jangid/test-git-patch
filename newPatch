@@ -1,0 +1,25 @@
+From cc791bb29212e89332f148cd27b78eb870a9a9e6 Mon Sep 17 00:00:00 2001
+From: pnsj-jangid <pnsj.jangid@gmail.com>
+Date: Tue, 24 Dec 2019 08:25:02 +0530
+Subject: [PATCH] kk added
+
+---
+ kk.txt    | 1 +
+ myChanges | 0
+ 2 files changed, 1 insertion(+)
+ create mode 100644 kk.txt
+ create mode 100644 myChanges
+
+diff --git a/kk.txt b/kk.txt
+new file mode 100644
+index 0000000..6918baf
+--- /dev/null
++++ b/kk.txt
+@@ -0,0 +1 @@
++sdfsdfsdsf
+diff --git a/myChanges b/myChanges
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.24.1.windows.2
+
